@@ -1,0 +1,5 @@
+@font-face {
+  font-family: 'Amphora';
+  src: url('https://cdn.jsdelivr.net/gh/postbyte/displaytype/dist/amphora-400.woff2') format('woff2'), /* Super Modern Browsers */
+       url('https://cdn.jsdelivr.net/gh/postbyte/displaytype/dist/amphora-400.woff') format('woff') /* Pretty Modern Browsers */
+}
